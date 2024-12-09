@@ -34,7 +34,7 @@ Hi there! 👋 I'm **Đorđe Đilas**, a **Senior Software Developer** with a pa
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=djordje-dilas&theme=highcontrast&hide_border=true&border_radius=6" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=djordje-dilas&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dorde-dilas&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
 </div>  
 
 ---
